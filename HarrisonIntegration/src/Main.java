@@ -17,6 +17,8 @@ public class Main {
 		System.out.println("How old are you?");//prompt for input
 		int age = scan.nextInt();//get in input
 		
+		System.out.println("");
+		
 		System.out.println("Your name is " + userName + " and you are " + age + " years old.");//prompt
 		
 		
