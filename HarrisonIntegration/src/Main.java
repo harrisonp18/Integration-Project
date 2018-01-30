@@ -21,12 +21,6 @@ public class Main {
 		
 		System.out.println("Your name is " + userName + " and you are " + age + " years old.");//prompt
 		
-		System.out.println("Would you like to continue?");
-		
-		
-		if (userName = ) {
-			System.out.println("Hi, Harrison");
-		}
 		
 	}
 
