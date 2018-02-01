@@ -1,9 +1,13 @@
 import java.util.Scanner;
 
 //Harrison Paxton
-//My project that integrates all the skills I've learned. This project will tell you the weight of something on any planet in our solar system.
+//My project that integrates all the skills I've learned. This project 
+//will tell you the weight of something on any planet in our solar 
+//system.
 
-//A variable is a location in memory or a placeholder for something such as a primitive data type (int, double, etc.)
+//A variable is a location in memory or a placeholder for something such
+//as a primitive data type (int, double, etc.)
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -43,7 +47,8 @@ public class Main {
 				planetWeight = userWeight*1.19;
 				break;
 		}
-		System.out.println(userWeight + " lbs on Earth is equivalent to " + planetWeight + " lbs on " + planet + ".");
+		System.out.println(userWeight + " lbs on Earth is equivalent to " + 
+		planetWeight + " lbs on " + planet + ".");
 		
 	}
 
