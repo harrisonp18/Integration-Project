@@ -12,7 +12,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Solar System Weight Scale");
+		System.out.println("Welcome to the Solar System Weight Scale!");
 		//sysout ctrl+space
 	
 		System.out.println("Enter a weight (lbs):");
@@ -25,7 +25,7 @@ public class Main {
 		double planetWeight = 0;
 		
 		switch (planet) {
-			case "Mercury":
+		  case "Mercury":
 				planetWeight = userWeight*0.38;
 				break;
 			case "Venus":
@@ -46,13 +46,15 @@ public class Main {
 			case "Uranus":
 				planetWeight = userWeight*1.19;
 				break;
+			default:
+			   System.out.println("Error: That is not a planet!");
 		}
-		System.out.println(userWeight + " lbs on Earth is equivalent to " + 
-		planetWeight + " lbs on " + planet + ".");
 		
+		System.out.println(userWeight + " lbs on Earth is equivalent to " + 
+        planetWeight + " lbs on " + planet + ".");
 	}
 
 }
 
-
+//
 //Dividing two integers always results in an integer.
