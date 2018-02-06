@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 //Harrison Paxton
+//Integration Project
 //My project that integrates all the skills I've learned. This project 
 //will tell you the weight of something on any planet in our solar 
 //system.
