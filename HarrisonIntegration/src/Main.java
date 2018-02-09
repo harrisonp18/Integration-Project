@@ -4,9 +4,12 @@ import java.util.Scanner;
 Integration Project
 My project that integrates all the skills I've learned. This project 
 will tell you the weight of something on any planet in our solar 
-system.*/
+system. Other code non-related to my conversion program is below as 
+to demonstrate other things I've learned that couldn't be usefully
+implemented into my primary program
 
-/*A variable is a location in memory or a placeholder for something such
+
+A variable is a location in memory or a placeholder for something such
 as a primitive data type (int, double, etc.)
 byte: 8-bit signed two's complement integer
 short: 16-bit signed two's complement integer
@@ -15,11 +18,11 @@ long: 64-bit signed two's complement integer
 float: single-precision 32-bit IEEE 754 floating point
 double: single-precision 64-bit IEEE 754 floating point
 boolean: only two possible values, true or false
-char: single 16-bit Unicode character
-*/
+char: single 16-bit Unicode character*/
 
 public class Main {
-
+/*This is the beginning of my weight conversion code. It is rough at the
+ moment but will be modified as time goes on. */
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Welcome to the Solar System Weight Scale!");
@@ -66,5 +69,8 @@ public class Main {
 
 }
 
-//
-//Dividing two integers always results in an integer.
+/*The rest of my code is in the Extra.java file, it is includes misc. 
+ code to demonstrate what I have learned in class and to satisfy the 
+ requirements for my the Integration project.*/
+
+//REMEMBER: Dividing two integers always results in an integer.
