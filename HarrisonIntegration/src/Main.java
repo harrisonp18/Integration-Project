@@ -70,7 +70,7 @@ public class Main {
 }
 
 /*The rest of my code is in the other files
- * Calculator.java has all arithmetic operators
+ * Calculator.java has all arithmetic operators and casting requirement
  * Classes.java has a class, object, getter and setter
  * Methods.java has a method declared and invoked
  */
