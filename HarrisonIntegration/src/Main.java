@@ -69,6 +69,10 @@ public class Main {
 
 }
 
-//The rest of my code is in the other files
+/*The rest of my code is in the other files
+ * Calculator.java has all arithmetic operators
+ * Classes.java has a class, object, getter and setter
+ * Methods.java has a method declared and invoked
+ */
 
 //REMEMBER: Dividing two integers always results in an integer.
