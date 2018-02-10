@@ -11,6 +11,7 @@ implemented into my primary program
 
 A variable is a location in memory or a placeholder for something such
 as a primitive data type (int, double, etc.)
+
 byte: 8-bit signed two's complement integer
 short: 16-bit signed two's complement integer
 int: 32-bit signed two's complement integer
@@ -19,6 +20,9 @@ float: single-precision 32-bit IEEE 754 floating point
 double: single-precision 64-bit IEEE 754 floating point
 boolean: only two possible values, true or false
 char: single 16-bit Unicode character*/
+
+/*Per the requirement, I used three primitive data types:
+ int, double, and char (which can be found in Strings.java)*/
 
 public class Main {
 /*This is the beginning of my weight conversion code. It is rough at the
@@ -73,6 +77,7 @@ public class Main {
  * Calculator.java has all arithmetic operators and casting requirement
  * Classes.java has a class, object, getter and setter
  * Methods.java has a method declared and invoked
+ * Strings.java manipulates text with 4 String class methods
  */
 
 //REMEMBER: Dividing two integers always results in an integer.
