@@ -1,6 +1,8 @@
+//This codes is a calculator where you enter 2 numbers and pick an 
+//operation to be completed on them.
 import java.util.Scanner;
 
-public class Extra {
+public class Calculator {
   
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
@@ -43,5 +45,3 @@ public class Extra {
   }
   
 }
-
-

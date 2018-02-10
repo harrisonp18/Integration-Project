@@ -69,8 +69,6 @@ public class Main {
 
 }
 
-/*The rest of my code is in the Extra.java file, it is includes misc. 
- code to demonstrate what I have learned in class and to satisfy the 
- requirements for my the Integration project.*/
+//The rest of my code is in the other files
 
 //REMEMBER: Dividing two integers always results in an integer.
