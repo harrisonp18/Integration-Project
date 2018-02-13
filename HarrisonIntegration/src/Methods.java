@@ -1,11 +1,11 @@
 
 //Harrison Paxton
 //This code fulfills the method requirements for PSI 1
+//This code calculates the area of a circle when given radius as an 
+//input from the user
 
 import java.util.Scanner;
 
-//This code calculates the area of a circle when given radius as an 
-//input from the user
 public class Methods {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
