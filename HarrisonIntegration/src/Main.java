@@ -66,7 +66,7 @@ public class Main {
         break;
       default:
         System.out.println("Error: That is not a planet!");
-    }gfg
+    }
 
     System.out.println(userWeight + " lbs on Earth is equivalent to "
         + planetWeight + " lbs on " + planet + ".");
