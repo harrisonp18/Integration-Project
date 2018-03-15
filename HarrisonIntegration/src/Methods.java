@@ -25,3 +25,5 @@ public class Methods {
     return Math.PI * rad * rad;
   }
 }
+
+// Static means belonging to class not belonging to the object
