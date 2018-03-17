@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 class Loops {
   public static void main(String[] args) {
