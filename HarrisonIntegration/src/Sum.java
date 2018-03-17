@@ -15,9 +15,10 @@ public class Sum {
 
     int[] ar = { a, b, c };
 
-    for (int counter = 0; counter < ar.length; counter++) {
-      sum += ar[counter];
-    }
-    System.out.println("The sum of your numbers is: " + sum);
+    int result = 0;
+    for (int i : ar) 
+        result += i;
+    
+    System.out.println("The sum of your numbers is: " + result);
   }
 }
