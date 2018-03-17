@@ -1,4 +1,5 @@
-
+//Harrison Paxton
+//this program has two counters to 10, one using a for loop, the other using while
 class Loops {
   public static void main(String[] args) {
     int count = 1;

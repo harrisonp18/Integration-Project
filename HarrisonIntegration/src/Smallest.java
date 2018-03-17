@@ -1,3 +1,5 @@
+//Harrison Paxton
+//This program finds the smallest value in an array and returns it and its index
 import java.util.Arrays;
 import java.util.Scanner;
 
