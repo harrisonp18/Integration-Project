@@ -10,6 +10,8 @@ public class Classes {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
 
+    Bicycle myBikeDemo1 = new Bicycle(5, 15);
+    
     Bicycle myBike = new Bicycle();
     System.out.println("Enter bike speed:");
     int speed = scan.nextInt();
