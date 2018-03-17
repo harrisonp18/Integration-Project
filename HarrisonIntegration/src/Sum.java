@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //Harrison Paxton
-//This program gets the sum of an array
+//This program gets the sum of an array, using a for each loop
 
 public class Sum {
  
