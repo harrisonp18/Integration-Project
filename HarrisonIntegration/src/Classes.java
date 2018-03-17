@@ -22,6 +22,14 @@ class Bicycle {
   private int speed;
   private int cadence;
 
+  public Bicycle(int startSpeed, int startCadence) {
+    speed=startSpeed;
+    cadence=startCadence;
+  }
+  public Bicycle() {
+    speed = 0;
+    cadence = 10;
+  }
   public int getSpeed() {
     return speed;
   }
