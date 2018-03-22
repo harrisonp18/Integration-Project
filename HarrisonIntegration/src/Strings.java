@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Strings {
 
-  public static void main(String[] args) {
+  public static void stringsMain() {
     Scanner scan = new Scanner(System.in);
 
     System.out.println("Enter a word:");

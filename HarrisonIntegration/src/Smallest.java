@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Smallest {
 
-  public static void main(String[] args) {
+  public static void smallestMain() {
     Scanner scan = new Scanner(System.in);
 
     System.out.println("Enter Three Numbers: ");

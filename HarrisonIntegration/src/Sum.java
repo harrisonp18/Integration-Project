@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Sum {
  
-  public static void main(String[] args) {
+  public static void sumMain() {
     Scanner scan = new Scanner(System.in);
     
     System.out.println("Enter Three Numbers: ");

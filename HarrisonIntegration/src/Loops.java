@@ -1,7 +1,7 @@
 //Harrison Paxton
 //this program has two counters to 10, one using a for loop, the other using while
 class Loops {
-  public static void main(String[] args) {
+  public static void loopsMain() {
     int count = 1;
     while (count < 11) {
       System.out.println("'While'Count is: " + count);

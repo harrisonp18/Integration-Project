@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Calculator {
 
-  public static void main(String[] args) {
+  public static void calculatorMain() {
     Scanner scan = new Scanner(System.in);
 
     // Below is code that uses +, -, *, /, and %
