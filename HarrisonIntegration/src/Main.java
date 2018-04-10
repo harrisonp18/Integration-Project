@@ -10,12 +10,15 @@ public class Main {
 		//Builder.builderMain();
 		//Calculator.calculatorMain();
 		//Classes.classesMain();
+	  //Inheritance.inheritanceMain();
 		//Loops.loopsMain();
 		//Methods.methodsMain();
 		//Planets.planetsMain();
 		//Smallest.smallestMain();
+	  //Over.overMain(args);
 		//Strings.stringsMain();
 		//Sum.sumMain();
+	  
 	}
 
 }
