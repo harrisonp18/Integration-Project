@@ -7,10 +7,9 @@ class Loops {
       System.out.println("'While'Count is: " + count);
       count++;
     }
-    for(int i=1; i<11; i++){
+    for (int i = 1; i < 11; i++) {
       System.out.println("'For'Count is: " + i);
- }
+    }
 
-    
   }
 }

@@ -5,20 +5,21 @@
  */
 public class Main {
 
-	public static void main(String[] args) {
+  public static void main(String[] args) {
 
-		//Builder.builderMain();
-		//Calculator.calculatorMain();
-		//Classes.classesMain();
-	  //Inheritance.inheritanceMain();
-		//Loops.loopsMain();
-		//Methods.methodsMain();
-		//Planets.planetsMain();
-		//Smallest.smallestMain();
-	  //Over.overMain();
-		//Strings.stringsMain();
-		//Sum.sumMain();
-	  
-	}
+    // Builder.builderMain();
+    // Calculator.calculatorMain();
+    // Classes.classesMain();
+    DateTime.dateTimeMain();
+    // Inheritance.inheritanceMain();
+    // Loops.loopsMain();
+    // Methods.methodsMain();
+    // Planets.planetsMain();
+    // Smallest.smallestMain();
+    // Over.overMain();
+    // Strings.stringsMain();
+    // Sum.sumMain();
+
+  }
 
 }

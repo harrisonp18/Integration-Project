@@ -11,7 +11,7 @@ public class Classes {
     Scanner scan = new Scanner(System.in);
 
     Bicycle myBikeDemo1 = new Bicycle(5, 15);
-    
+
     Bicycle myBike = new Bicycle();
     System.out.println("Enter bike speed:");
     int speed = scan.nextInt();
@@ -25,13 +25,15 @@ class Bicycle {
   private int cadence;
 
   public Bicycle(int startSpeed, int startCadence) {
-    speed=startSpeed;
-    cadence=startCadence;
+    speed = startSpeed;
+    cadence = startCadence;
   }
+
   public Bicycle() {
     speed = 0;
     cadence = 10;
   }
+
   public int getSpeed() {
     return speed;
   }
