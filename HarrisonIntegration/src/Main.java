@@ -1,4 +1,8 @@
-
+//Harrison Paxton
+/*This serves as a hub for all the programs within this project.
+ * In order to activate a certain file to run the program just get rid
+ * of the "//" in front of the program name.
+ */
 public class Main {
 
 	public static void main(String[] args) {
