@@ -42,4 +42,8 @@ class Bicycle {
     speed = s;
     return s;
   }
-}
+  public void printDescription() {
+      System.out.println(
+          "The " + "Bike is going" + getSpeed() + " mph.");
+    }
+  }
