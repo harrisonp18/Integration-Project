@@ -1,4 +1,4 @@
-
+//Harrison Paxton
 public class Bike {
   private int speed;
   private int cadence;

@@ -1,4 +1,4 @@
-
+//Harrison Paxton
 public class MountainBike extends Bike {
   private String suspension;
 
@@ -17,6 +17,7 @@ public class MountainBike extends Bike {
 
   public void printDescription() {
     super.printDescription();
-    System.out.println("The " + "MountainBike has a " + getSuspension() + " suspension.");
+    System.out.println(
+        "The " + "MountainBike has a " + getSuspension() + " suspension.");
   }
 }

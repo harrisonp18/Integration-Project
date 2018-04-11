@@ -1,4 +1,4 @@
-
+//Harrison Paxton
 public class RoadBike extends Bike {
   // In millimeters (mm)
   private int tireWidth;
@@ -19,6 +19,7 @@ public class RoadBike extends Bike {
 
   public void printDescription() {
     super.printDescription();
-    System.out.println("The RoadBike" + " has " + getTireWidth() + " MM tires.");
+    System.out
+        .println("The RoadBike" + " has " + getTireWidth() + " MM tires.");
   }
 }
