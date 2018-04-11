@@ -12,6 +12,7 @@ public class Main {
     // Classes.classesMain();
     // DateTime.dateTimeMain();
     // Inheritance.inheritanceMain();
+    // Lambda.lambdaMain();
     // Loops.loopsMain();
     // Methods.methodsMain();
     // Planets.planetsMain();
