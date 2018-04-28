@@ -9,6 +9,10 @@
 
 import java.util.Scanner;
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Strings {
 
   public static void stringsMain() {

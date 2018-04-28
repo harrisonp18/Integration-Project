@@ -1,5 +1,9 @@
 //Harrison Paxton
 //this program has two counters to 10, one using a for loop, the other using while
+/**
+ * @author harrisonpaxton
+ *
+ */
 class Loops {
   public static void loopsMain() {
     int count = 1;

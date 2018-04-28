@@ -2,6 +2,10 @@ import java.util.Scanner;
 //Harrison Paxton
 //This program gets the sum of an array, using a for-each loop
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Sum {
 
   public static void sumMain() {

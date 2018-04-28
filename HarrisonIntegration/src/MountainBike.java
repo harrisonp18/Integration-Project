@@ -1,4 +1,8 @@
 //Harrison Paxton
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class MountainBike extends Bike {
   private String suspension;
 
@@ -14,6 +18,7 @@ public class MountainBike extends Bike {
   public void setSuspension(String suspensionType) {
     this.suspension = suspensionType;
   }
+
 
   public void printDescription() {
     super.printDescription();

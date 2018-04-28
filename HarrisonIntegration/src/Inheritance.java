@@ -4,6 +4,10 @@
 //class extends the Animal class and inherits its walk method.
 
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Inheritance {
   public static void inheritanceMain() {
 

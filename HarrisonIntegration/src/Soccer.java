@@ -1,5 +1,9 @@
 //Harrison Paxton
 //Part of the over program
+/**
+ * @author harrisonpaxton
+ *
+ */
 class Soccer extends Sports {
   @Override
   String getName() {

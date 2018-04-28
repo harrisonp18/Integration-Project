@@ -2,6 +2,10 @@
 /*Using Bike, MountainBike, and RoadBike classes this program shows 
  * polymorphism in action. Refer to the various classes to see changes
   made.*/
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Polymorphism {
 
   public static void polymorphismMain() {

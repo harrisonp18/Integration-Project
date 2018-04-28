@@ -2,8 +2,15 @@ import java.util.Scanner;
 //Harrison Paxton
 //This program demonstrates three methods of the String Builder class
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Builder {
 
+  /**
+   * 
+   */
   public static void builderMain() {
     Scanner scan = new Scanner(System.in);
 

@@ -1,4 +1,8 @@
 //Harrison Paxton
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Bike {
   private int speed;
 

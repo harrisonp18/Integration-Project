@@ -5,6 +5,10 @@
 //output
 import java.util.Scanner;
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Over {
   public static void overMain() {
     Sports c1 = new Sports();

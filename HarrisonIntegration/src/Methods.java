@@ -6,6 +6,10 @@
 
 import java.util.Scanner;
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Methods {
   public static void methodsMain() {
     Scanner scan = new Scanner(System.in);

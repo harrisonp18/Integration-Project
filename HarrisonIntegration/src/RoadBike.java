@@ -1,4 +1,8 @@
 //Harrison Paxton
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class RoadBike extends Bike {
   // In millimeters (mm)
   private int tireWidth;

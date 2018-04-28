@@ -23,6 +23,10 @@ char: single 16-bit Unicode character*/
 /*Per the requirement, I used three primitive data types:
  int, double, and char (which can be found in Strings.java)*/
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Planets {
   /*
    * This is the beginning of my weight conversion code. It is rough at the

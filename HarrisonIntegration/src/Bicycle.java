@@ -1,5 +1,9 @@
 //Harrison Paxton
 //Part of Classes program
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Bicycle {
   private int speed;
 

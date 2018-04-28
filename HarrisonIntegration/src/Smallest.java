@@ -4,6 +4,10 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Smallest {
 
   public static void smallestMain() {

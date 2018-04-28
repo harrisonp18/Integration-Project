@@ -5,6 +5,10 @@
 //stating the given bike speed.
 import java.util.Scanner;
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Classes {
 
   public static void classesMain() {

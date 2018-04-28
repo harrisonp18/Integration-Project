@@ -6,6 +6,10 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * @author harrisonpaxton
+ *
+ */
 public class Calculator {
 
   public static void calculatorMain() {
