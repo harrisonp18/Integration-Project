@@ -2,8 +2,8 @@
 public class MountainBike extends Bike {
   private String suspension;
 
-  public MountainBike(int startCadence, int startSpeed, String suspensionType) {
-    super(startCadence, startSpeed);
+  public MountainBike(int startSpeed, String suspensionType) {
+    super(startSpeed);
     this.setSuspension(suspensionType);
   }
 

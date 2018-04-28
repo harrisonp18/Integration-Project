@@ -5,29 +5,6 @@
 //output
 import java.util.Scanner;
 
-class Sports {
-
-  String getName() {
-    return "Generic Sports";
-  }
-
-  void getNumberOfTeamMembers() {
-    System.out.println("Each team has n players in " + getName());
-  }
-}
-
-class Soccer extends Sports {
-  @Override
-  String getName() {
-    return "Soccer Class";
-  }
-
-  @Override
-  void getNumberOfTeamMembers() {
-    System.out.println("Each team has 11 players in " + getName());
-  }
-}
-
 public class Over {
   public static void overMain() {
     Sports c1 = new Sports();

@@ -10,8 +10,6 @@ public class Classes {
   public static void classesMain() {
     Scanner scan = new Scanner(System.in);
 
-    Bicycle myBikeDemo1 = new Bicycle(5, 15);
-
     Bicycle myBike = new Bicycle();
     System.out.println("Enter bike speed:");
     int speed = scan.nextInt();
@@ -20,30 +18,3 @@ public class Classes {
   }
 }
 
-class Bicycle {
-  private int speed;
-  private int cadence;
-
-  public Bicycle(int startSpeed, int startCadence) {
-    speed = startSpeed;
-    cadence = startCadence;
-  }
-
-  public Bicycle() {
-    speed = 0;
-    cadence = 10;
-  }
-
-  public int getSpeed() {
-    return speed;
-  }
-
-  public int setSpeed(int s) {
-    speed = s;
-    return s;
-  }
-  public void printDescription() {
-      System.out.println(
-          "The " + "Bike is going" + getSpeed() + " mph.");
-    }
-  }

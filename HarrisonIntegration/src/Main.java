@@ -10,8 +10,12 @@ public class Main {
     // Builder.builderMain();
     // Calculator.calculatorMain();
     // Classes.classesMain();
+      //the Bicycle class is part of the classes program
     // DateTime.dateTimeMain();
-    // Inheritance.inheritanceMain();
+    //Inheritance.inheritanceMain();
+      //Animal.walk(); animal and bird are part of the inheritance
+      //Bird.sing();      program and need to be uncommented to work
+      //Bird.fly();
     // Lambda.lambdaMain();
     // Loops.loopsMain();
     // Methods.methodsMain();
@@ -19,10 +23,10 @@ public class Main {
     // Polymorphism.polymorphismMain();
     // Smallest.smallestMain();
     // Over.overMain();
+      //Sports class is part of the over program
+      //Soccer class is part of the over program
     // Strings.stringsMain();
     // Sum.sumMain();
-    
-    
 
   }
 

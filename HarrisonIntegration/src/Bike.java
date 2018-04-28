@@ -1,16 +1,13 @@
 //Harrison Paxton
 public class Bike {
   private int speed;
-  private int cadence;
 
-  public Bike(int startSpeed, int startCadence) {
+  public Bike(int startSpeed) {
     speed = startSpeed;
-    cadence = startCadence;
   }
 
   public Bike() {
     speed = 0;
-    cadence = 10;
   }
 
   public int getSpeed() {

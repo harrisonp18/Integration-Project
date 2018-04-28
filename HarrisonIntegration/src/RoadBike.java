@@ -3,9 +3,8 @@ public class RoadBike extends Bike {
   // In millimeters (mm)
   private int tireWidth;
 
-  public RoadBike(int startCadence, int startSpeed, int startGear,
-      int newTireWidth) {
-    super(startCadence, startSpeed);
+  public RoadBike(int startSpeed, int startGear, int newTireWidth) {
+    super(startSpeed);
     this.setTireWidth(newTireWidth);
   }
 
