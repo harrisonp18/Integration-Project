@@ -4,11 +4,17 @@
  * of the "//" in front of the program name.
  */
 /**
+ * Main class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Main {
 
+  /**
+   * Main method.
+   * @param args runs selected program
+   */
   public static void main(String[] args) {
 
     // Builder.builderMain();

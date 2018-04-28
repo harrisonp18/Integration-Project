@@ -1,5 +1,7 @@
 //Harrison Paxton
 /**
+ * Mountain Bike class.
+ * 
  * @author harrisonpaxton
  *
  */
@@ -20,6 +22,9 @@ public class MountainBike extends Bike {
   }
 
 
+  /**
+   *  Method prints description.
+   */
   public void printDescription() {
     super.printDescription();
     System.out.println(

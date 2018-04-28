@@ -24,13 +24,15 @@ char: single 16-bit Unicode character*/
  int, double, and char (which can be found in Strings.java)*/
 
 /**
+ * Planets class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Planets {
-  /*
-   * This is the beginning of my weight conversion code. It is rough at the
-   * moment but will be modified as time goes on.
+ 
+  /**
+   * This program converts weights on different planets.
    */
   public static void planetsMain() {
     Scanner scan = new Scanner(System.in);

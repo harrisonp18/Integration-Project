@@ -1,5 +1,7 @@
 //Harrison Paxton
 /**
+ * Car class.
+ * 
  * @author harrisonpaxton
  *
  */

@@ -1,6 +1,8 @@
 //Harrison Paxton
 //Part of the inheritance program
 /**
+ * Bird class.
+ * 
  * @author harrisonpaxton
  *
  */

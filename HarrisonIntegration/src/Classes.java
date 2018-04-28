@@ -6,11 +6,17 @@
 import java.util.Scanner;
 
 /**
+ * Classes class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Classes {
 
+  /**
+   * The code ask for an input of bike speed and outputs a sentence
+   * stating the given bike speed.
+   */
   public static void classesMain() {
     Scanner scan = new Scanner(System.in);
 

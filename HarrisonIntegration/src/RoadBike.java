@@ -1,5 +1,7 @@
 //Harrison Paxton
 /**
+ * Road bike class.
+ * 
  * @author harrisonpaxton
  *
  */
@@ -20,6 +22,9 @@ public class RoadBike extends Bike {
     this.tireWidth = newTireWidth;
   }
 
+  /**
+   * Method prints description.
+   */
   public void printDescription() {
     super.printDescription();
     System.out

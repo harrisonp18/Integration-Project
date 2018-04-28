@@ -1,6 +1,8 @@
 //Harrison Paxton
 //Part of the Inheritance program
 /**
+ * Animal class.
+ * 
  * @author harrisonpaxton
  *
  */

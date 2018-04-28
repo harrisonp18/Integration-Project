@@ -3,11 +3,16 @@ import java.util.Scanner;
 //This program gets the sum of an array, using a for-each loop
 
 /**
+ * Sum class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Sum {
 
+  /**
+   * This program gets the sum of an array, using a for-each loop.
+   */
   public static void sumMain() {
     Scanner scan = new Scanner(System.in);
 

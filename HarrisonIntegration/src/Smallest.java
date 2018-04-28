@@ -5,11 +5,16 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
+ * Smallest class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Smallest {
 
+  /**
+   * This program finds the smallest value in an array and returns it and its index.
+   */
   public static void smallestMain() {
     Scanner scan = new Scanner(System.in);
 
@@ -32,6 +37,12 @@ public class Smallest {
 
   }
 
+  /**
+   * This program finds the smallest value in an array and returns it and its index.
+   * @param ar is the array index
+   * @param s is the smallest number in the array
+   * @return
+   */
   public static int findIndex(int[] ar, int s) {
     if (ar == null) {
       return -1;

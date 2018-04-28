@@ -1,6 +1,8 @@
 //Harrison Paxton
 //Part of the over program
 /**
+ * Sports class.
+ * 
  * @author harrisonpaxton
  *
  */

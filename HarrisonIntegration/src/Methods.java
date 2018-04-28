@@ -7,10 +7,15 @@
 import java.util.Scanner;
 
 /**
+ * Methods class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Methods {
+  /**
+   * Asks for radius and prints area.
+   */
   public static void methodsMain() {
     Scanner scan = new Scanner(System.in);
     System.out.println("Welcome to the Circle Area Calculator!");
@@ -23,6 +28,11 @@ public class Methods {
     System.out.println("The area of your circle is " + area);
   }
 
+  /**
+   * Calculates area from given radius.
+   * @param radius calculates radius of circle
+   * @return returns the calculated radius
+   */
   public static double calculateArea(double radius) { // this line
     // is the header, "radius" in the parenthesis is the parameter
     double rad = radius;

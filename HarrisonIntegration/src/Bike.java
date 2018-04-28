@@ -1,5 +1,7 @@
 //Harrison Paxton
 /**
+ * Bike class.
+ * 
  * @author harrisonpaxton
  *
  */

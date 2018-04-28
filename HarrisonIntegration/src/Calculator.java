@@ -7,11 +7,16 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
+ * Calculator class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Calculator {
 
+  /**
+   * This program is a calculator.
+   */
   public static void calculatorMain() {
     Scanner scan = new Scanner(System.in);
 

@@ -1,8 +1,18 @@
 //Harrison Paxton
 //This program uses a few Lambda expressions and shows different ways
 //they can be implemented.
+/**
+ * Lambda class.
+ * 
+ * @author harrisonpaxton
+ *
+ */
 public class Lambda {
 
+  /**
+   * This program uses a few Lambda expressions and shows different ways
+   * they can be implemented.
+   */
   public static void lambdaMain() {
     Lambda tester = new Lambda();
 

@@ -3,11 +3,18 @@
  * polymorphism in action. Refer to the various classes to see changes
   made.*/
 /**
+ * Polymorphism class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Polymorphism {
 
+  /**
+   * Using Bike, MountainBike, and RoadBike classes this program shows 
+   * polymorphism in action. Refer to the various classes to see changes
+   * made.
+   */
   public static void polymorphismMain() {
     Bike bike01;
     Bike bike02;

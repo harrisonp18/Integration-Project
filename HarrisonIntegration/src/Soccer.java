@@ -1,6 +1,8 @@
 //Harrison Paxton
 //Part of the over program
 /**
+ * Soccer class.
+ * 
  * @author harrisonpaxton
  *
  */

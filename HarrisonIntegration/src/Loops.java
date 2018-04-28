@@ -1,6 +1,8 @@
 //Harrison Paxton
 //this program has two counters to 10, one using a for loop, the other using while
 /**
+ * Loops class.
+ * 
  * @author harrisonpaxton
  *
  */

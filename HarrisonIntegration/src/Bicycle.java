@@ -1,6 +1,8 @@
 //Harrison Paxton
 //Part of Classes program
 /**
+ * Bicycle class.
+ * 
  * @author harrisonpaxton
  *
  */

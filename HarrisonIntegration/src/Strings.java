@@ -10,11 +10,19 @@
 import java.util.Scanner;
 
 /**
+ * Strings class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Strings {
 
+  /**
+   * This program asks a user for a word, uses trim method to trim it in case
+  * user used spaces or multiple words, restates their word to them, prints it
+  * in all uppercase and all lowercase, and tells the user what the first
+  * letter of their word is.
+   */
   public static void stringsMain() {
     Scanner scan = new Scanner(System.in);
 

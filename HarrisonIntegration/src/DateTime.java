@@ -10,11 +10,16 @@ import java.time.temporal.ChronoUnit;
 import java.time.temporal.TemporalAdjusters;
 
 /**
+ * DateTime class.
+ *
  * @author harrisonpaxton
  *
  */
 public class DateTime {
 
+  /**
+   * This program formats and prints the local date and time.
+   */
   public static void dateTimeMain() {
 
     LocalDate currentDate = LocalDate.now();

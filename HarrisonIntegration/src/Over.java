@@ -6,10 +6,17 @@
 import java.util.Scanner;
 
 /**
+ * Over class.
+ * 
  * @author harrisonpaxton
  *
  */
 public class Over {
+  /**
+   * This code provides an example of an overridden method (override)
+   * Soccer extends sports and overrides its methods, changing what they
+   * output.
+   */
   public static void overMain() {
     Sports c1 = new Sports();
     Soccer c2 = new Soccer();
